@@ -3,10 +3,10 @@
 	padding: 0;
 }
 
-#myCanvas{
+canvas{
 	display: block;
 	margin: 100px auto;
-	/* border: 1px solid #ccc; */
+	border: 1px solid #ccc;
 /* 	background-color: #3EECAC;
 	background-image: linear-gradient(19deg, #3EECAC 30%, #EE74E1 100%); */
 }
